@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Hello, I am a writer.
 ---
-I am a writer and I am super passionate about cybersecurity. I write about technical writing, blockchain, marketing, and privacy guides.
+I am an avid cybersecurity technologist and who takes pride in pentesting and report writing. I also do technical writing and writes about blockchain, marketing, and privacy guides.
