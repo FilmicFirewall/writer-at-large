@@ -1,3 +1,3 @@
-Hello, I am a writer
+# Hello, I am a writer
 
-I am an aspiring pentester. I do report writing and writes about blockchain, marketing, and data privacy.
+I am an aspiring pentester. I create content on blockchain, marketing, and data privacy.
