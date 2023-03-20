@@ -1,3 +1,3 @@
-# Hello, I am a writer
+# Hello, I'm Usama
 
-I am an aspiring pentester. I create content on blockchain, marketing, and data privacy.
+I am an aspiring pentester. I write content on blockchain, marketing, tech, and data privacy.
