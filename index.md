@@ -1,6 +1,6 @@
 Hello, I'm Usama
 
-I am writer at large and a self-taught ethical hacker. 
+I am a writer and a self-taught ethical hacker. 
 
 My interests are:
 - Data Privacy
