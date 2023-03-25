@@ -1,3 +1,15 @@
 Hello, I'm Usama
 
-I am an aspiring pentester. I write content on blockchain, marketing, tech, and data privacy.
+I am writer at large and a self-taught ethical hacker. 
+
+My interests are:
+- Data Privacy
+- Blockchain
+- Marketing 
+- Tech
+
+If you want to get in touch, I offer these services:
+- Technical Documentation 
+- Penetration Testing
+- Digital Marketing
+- Content Writing
